@@ -24,7 +24,7 @@ This is a C++ based Library Management System developed as a university programm
 
 ## How to Run
 1. Download the `.cpp` file.
-2. Open it in Dev-C++ or another C++ IDE.
+2. Open it in Dev-C++ or another C++ IDE.``
 3. Compile the program.
 4. Run the program.
 5. Choose an option from the menu.
@@ -38,3 +38,6 @@ The purpose of this project is to practice basic C++ programming concepts and de
 
 ---
 **Thank you for visiting my project!**
+## Project Screenshot
+
+![Library Management System](Screenshot%202026-11-07%20182017.png)
